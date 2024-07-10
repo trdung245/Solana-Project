@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">YourAppName</string>
+    <string name="back_button">Back</string>
+    <string name="facebook_button">Back</string>
+    <string name="discord_button">Back</string>
+    <string name="avatar_image">Back</string>
+    <string name="capture_button">Back</string>
+    <string name="find_game_button">Back</string>
+    <string name="balance_button">Back</string>
+    <string name="profile_button">Back</string>
+    <string name="community_button">Back</string>
+    <string name="setting_button">Back</string>
+    <!-- Add any other string resources here -->
+</resources>
